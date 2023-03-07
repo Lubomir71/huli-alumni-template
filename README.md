@@ -11,9 +11,9 @@ Email: {link}
 {project-name}: {link-to-repo}
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
-LeetCode: https://leetcode.com/{username}
+LeetCode: https://leetcode.com/Lubomir71
 
-Hackerrank: https://www.hackerrank.com/Lubomir71
+Hackerrank: https://www.hackerrank.com/{username}
 
 Codewars: https://www.codewars.com/users/Lubo71
 
