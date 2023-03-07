@@ -13,7 +13,7 @@ Email: {link}
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/{username}
 
-Hackerrank: https://www.hackerrank.com/{username}
+Hackerrank: https://www.hackerrank.com/Lubomir71
 
 Codewars: https://www.codewars.com/users/Lubo71
 
