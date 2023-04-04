@@ -5,10 +5,10 @@ Welcome to my page, my name is Ľubomír and I'm a fresh alumni of Green Fox Aca
 ## Hire me
 LinkedIn: {link}
 
-Email: {link}
+Email: lubo.drab@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+Todo app: https://github.com/Lubomir71/todo-app
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/Lubomir71
